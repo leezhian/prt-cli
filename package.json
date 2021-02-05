@@ -1,16 +1,23 @@
 {
   "name": "pr-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "pc-cli 项目",
   "main": "index.js",
   "scripts": {},
   "bin": {
-    "pr-cli": "bin/cli"
+    "pr-cli": "bin/cli.js"
   },
   "keywords": [
     "cli",
     "pr-cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leezhian/pr-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leezhian/pr-cli/issues"
+  },
   "author": "leezhian",
   "license": "ISC",
   "dependencies": {
